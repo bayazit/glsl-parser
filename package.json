@@ -1,5 +1,5 @@
 {
-  "name": "glsl-parser",
+  "name": "glsl-parser-fork-for-gm",
   "version": "2.0.1",
   "description": "transform streamed glsl tokens into an ast",
   "main": "stream.js",
@@ -17,7 +17,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/stackgl/glsl-parser.git"
+    "url": "git+https://github.com/bayazit/glsl-parser.git"
   },
   "keywords": [
     "glsl",
