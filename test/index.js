@@ -2,8 +2,8 @@ var test = require('tape')
 var path = require('path')
 var fs   = require('fs')
 
-var TokenStream = require('glsl-tokenizer/stream')
-var TokenString = require('glsl-tokenizer/string')
+var TokenStream = require('glsl-tokenizer-fork-for-gm/stream')
+var TokenString = require('glsl-tokenizer-fork-for-gm/string')
 var ParseStream = require('../stream')
 var ParseArray  = require('../direct')
 
