@@ -1,6 +1,6 @@
 {
   "name": "glsl-parser-fork-for-gm",
-  "version": "5.0.2",
+  "version": "5.0.3",
   "description": "transform streamed glsl tokens into an ast",
   "main": "stream.js",
   "dependencies": {
